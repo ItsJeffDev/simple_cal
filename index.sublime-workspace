@@ -1,0 +1,248 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"l",
+				"li"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"shadow",
+				"text-shadow"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"ti",
+				"title"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"cmd"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/MARY/OneDrive/Documents/CSI/Calculator/main.js",
+		"/C/MARY/OneDrive/Documents/CSI/Calculator/style.css",
+		"/C/MARY/OneDrive/Documents/CSI/Calculator/index.html",
+		"/C/MARY/OneDrive/Documents/CSI/TimeStop/style.css",
+		"/C/MARY/OneDrive/Documents/CSI/TimeStop/main.js",
+		"/C/MARY/OneDrive/Documents/CSI/TimeStop/index.html",
+		"/C/MARY/OneDrive/Documents/CSI/AddNum/style.css",
+		"/C/MARY/OneDrive/Documents/CSI/AddNum/main.js",
+		"/C/MARY/OneDrive/Documents/CSI/AddNum/jeff.html",
+		"/C/Users/SHANE/learnJava.java",
+		"/C/Users/SHANE/pygamess.py",
+		"/C/Users/SHANE/TextToSpeechPy.py",
+		"/C/Users/SHANE/TextToSpeechPy.sublime-workspace",
+		"/C/Program Files/Jeffkolinmiranda/jeffWeb2/kolin.html",
+		"/C/MARY/OneDrive/Documents/test.html",
+		"/C/MARY/OneDrive/Documents/kolin.html",
+		"/C/MARY/OneDrive/Documents/first.html",
+		"/C/Program Files/Jeffkolinmiranda/JeffWeb1/first.html",
+		"/C/Program Files/Notepad++/jeffWeb/index.css",
+		"/C/Program Files/Notepad++/jeffWeb/index.html",
+		"/C/Program Files/Notepad++/jeffWeb/pngwing.com.png",
+		"/C/Program Files/Notepad++/jeffWeb/ako.png",
+		"/C/Users/SHANE/AppData/Roaming/Sublime Text/Packages/User/index.css",
+		"/C/Users/SHANE/AppData/Roaming/Sublime Text/Packages/User/index.html",
+		"/C/MARY/OneDrive/Documents/JeffkolinWebsite.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Java/JavaC.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

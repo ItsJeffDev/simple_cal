@@ -1,0 +1,47 @@
+body {
+    background-color: #2b2b2b; /* Dark background color */
+    color: #d3d3d3; /* Light text color */
+    font-family: Arial, sans-serif;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 85vh;
+    background-color: #3c3f41; /* Slightly lighter dark color */
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 50px;
+    text-align: center;
+}
+
+label, input {
+    margin-bottom: 10px; /* Add some space between elements */
+}
+
+input[type="text"] {
+    background-color: #595b5d; /* Cold color for input fields */
+    color: #d3d3d3;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    width: 80%;
+}
+
+button {
+    background-color: #4c4f51; /* Cold color for buttons */
+    color: #d3d3d3;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #5c5f61; /* Slightly lighter on hover */
+}
